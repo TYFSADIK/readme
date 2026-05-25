@@ -1,121 +1,96 @@
+<!-- markdownlint-disable-file MD033 -->
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=3FB950&center=true&vCenter=true&width=620&height=55&lines=Cybersecurity+Analyst+%40+SHIELD+SOC;I+own+my+stack+end-to-end;21+self-hosted+projects+%26+counting;Built+my+own+AI.+No+subscription.;I+use+Arch%2C+btw)](https://tyfsadik.org)
+<h1>Hi, I'm Taki 👋</h1>
 
-</div>
+<a href="https://tyfsadik.org">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&height=45&lines=Cybersecurity+Analyst+%7C+SOC+%26+Incident+Response;Cloud+Security+%7C+Azure+%E2%80%A2+AWS+%E2%80%A2+self-hosted;Running+a+21-project+homelab+%26+a+7-node+K8s+cluster;I+build%2C+break%2C+and+secure+my+own+stack" alt="roles" />
+</a>
 
-```console
-taki@tyfsadik:~$ neofetch
-```
+<p>
+  <img src="https://komarev.com/ghpvc/?username=TYFSADIK&label=Profile%20views&color=7aa2f7&style=flat" alt="views" />
+  <img src="https://img.shields.io/badge/Open_to-SOC_%2F_Cloud_Security_Roles-9ece6a?style=flat&labelColor=1a1b26" alt="open to work" />
+  <img src="https://img.shields.io/badge/Based_in-Toronto,_CA-7aa2f7?style=flat&labelColor=1a1b26" alt="location" />
+</p>
 
-```text
-      /\           taki@tyfsadik
-     /  \          ─────────────────────────────────────────────
-    /\   \         OS........ SOC Analyst @ SHIELD Security
-   /      \        Host...... North York, Ontario, Canada
-  /   ,,   \       Kernel.... 6.x-homelab (Proxmox + Kubernetes)
- /   |  |  -\      Uptime.... securing networks since 2021
-/_-''    ''-_\     Shell..... bash · zsh · PowerShell
-                   Roles..... Incident Analyst · Incident Manager
-                   Certs..... 25+ — Cisco · IBM · Google · ISC2 · OPSWAT
-                   Homelab... 21 projects · 7-node bare-metal cluster
-                   Langs..... Python · TypeScript · Bash · Rust · PHP
-                   Cloud..... Azure · AWS · self-hosted everything
-                   AI........ local LLM, zero subscriptions
-                   Editor.... nvim   (yes, I really do use Arch)
+<img src="https://github-profile-trophy.vercel.app/?username=TYFSADIK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Experience" alt="trophies" />
 
-                   ███ ███ ███ ███ ███ ███ ███ ███
-```
+<h3><a href="https://tyfsadik.org" target="_blank">www.tyfsadik.org</a></h3>
 
-### `$ cat ~/.whoami`
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contact@tyfsadik.org)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-taki-yasir-faraji-sadik-63a026278)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/TYFSADIK)
 
-I got into IT through surveillance operations and realised I cared more about the
-network underneath the cameras than the footage they captured. That curiosity ran
-downhill — networking → Linux → cloud → security — and never stopped. These days I
-triage alerts in a SOC by day and run a small datacenter in my apartment by night.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=3" alt="divider" />
 
----
+<h2>⚙️ Tech Stack</h2>
 
-### `$ systemctl status homelab.target`
+<table>
+<tr>
+<td valign="top" align="center" width="33%">
 
-```text
-● homelab.target — Taki's self-hosted infrastructure
-     Loaded: loaded (/etc/systemd/system/homelab.target; enabled)
-     Active: active (running) — 21 services deployed, 0 cloud bills
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,nginx,ansible,terraform,prometheus,grafana,git&perline=4" alt="cloud & devops" />
 
-  ● k8s-cluster      running   —                    7-node bare-metal · Calico · MetalLB · Longhorn · Grafana
-  ● tyf-ai           running   ai.tyfsadik.org      self-hosted LLM + web search
-  ● proxmox          running   —                    KVM / LXC / ZFS virtualization host
-  ● pihole-unbound   running   —                    network-wide DNS + recursive resolver
-  ● nextcloud        running   cloud.tyfsadik.org   private cloud storage
-  ● immich           running   photo.tyfsadik.org   ML photo management
-  ● searxng          running   search.tyfsadik.org  tracker-free search engine
-  ● kiwix            running   wiki.tyfsadik.org    offline Wikipedia mirror
-  ● postfix-dovecot  running   @tyfsadik.org        self-hosted mail (DKIM/SSL)
-  ● arch-rdp         running   —                    Arch + XFCE over WSL2  ★5
-```
+</td>
+<td valign="top" align="center" width="33%">
 
----
+### 🛡️ Systems & Security
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,debian,bash,powershell,vim,regex&perline=4" alt="systems & security" />
 
-### `$ tail -n 6 ~/career.log`
+</td>
+<td valign="top" align="center" width="33%">
 
-```text
-[2025-11]  SHIELD Security Systems   Incident Analyst     SOC triage · threat assessment · IR
-[2025-08]  CN Tower / Tour CN        Incident Manager     full incident lifecycle, detect→review
-[2025-01]  CardiOCare                Network Analyst      packet analysis · IDS · topology
-[2024-10]  TD                        CSR / IT Support     service delivery · tech assistance
-[2024-06]  Fiera Foods               Server Operator      Linux/Win Server · SQL · backups
-[2022-09]  Elite Force               Surveillance Ops     where the whole thing started
-```
+### 💻 Languages & Data
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,rust,mysql,postgres,mongodb&perline=4" alt="languages & data" />
 
----
+</td>
+</tr>
+</table>
 
-### `$ ls ~/certs/`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=3" alt="divider" />
 
-```text
-cisco/        Cybersecurity Defense Analyst
-ibm/          Networks & Security · OS Admin & Security · Tools & Cyberattacks
-google/       Foundations of Cybersecurity
-azure/        AZ-900 Cloud Fundamentals
-aws/          Cloud Practitioner · Academy Cloud Security
-opswat/       CIP · ICIP  (Critical Infrastructure Protection)
-isc2/         Certified in Cybersecurity (CC) — candidate
-anthropic/    Model Context Protocol (MCP)
-attackiq/     MITRE ATT&CK — EASY Framework
-mastercard/   Cybersecurity Virtual Experience (Forage)
-apnic/        Cisco Routing
-alison/       Diploma in Ethical Hacking
-comptia/      A+        (Security+ in progress...)
-              ... + 12 more
-```
+<h2>🏠 Homelab</h2>
 
----
+<p><i>21 self-hosted projects&nbsp; ·&nbsp; 7-node bare-metal Kubernetes cluster&nbsp; ·&nbsp; zero cloud bills</i></p>
 
-### `$ git log --stat`
+<table>
+<tr>
+<td align="center" width="33%">🤖 <b><a href="https://ai.tyfsadik.org">TYF-AI</a></b><br/><sub>Self-hosted LLM + web search</sub></td>
+<td align="center" width="33%">🔍 <b><a href="https://search.tyfsadik.org">SearXNG</a></b><br/><sub>Private search engine</sub></td>
+<td align="center" width="33%">📚 <b><a href="https://wiki.tyfsadik.org">Kiwix</a></b><br/><sub>Offline Wikipedia mirror</sub></td>
+</tr>
+<tr>
+<td align="center">☁️ <b><a href="https://cloud.tyfsadik.org">Nextcloud</a></b><br/><sub>Private cloud storage</sub></td>
+<td align="center">📷 <b><a href="https://photo.tyfsadik.org">Immich</a></b><br/><sub>ML photo management</sub></td>
+<td align="center">🚢 <b>Kubernetes</b><br/><sub>Calico · MetalLB · Longhorn</sub></td>
+</tr>
+</table>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=3" alt="divider" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TYFSADIK&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e&ring_color=3fb950" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYFSADIK&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=8" />
+<h2>📊 Statistics</h2>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=TYFSADIK&hide_border=true&background=0d1117&stroke=21262d&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=8b949e&dates=484f58&currStreakNum=c9d1d9&sideNums=c9d1d9&dayLabels=8b949e" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TYFSADIK&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="github stats" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TYFSADIK&theme=tokyonight" alt="languages" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TYFSADIK&theme=tokyonight" alt="profile details" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TYFSADIK&bg_color=0d1117&color=8b949e&line=3fb950&point=ffffff&area=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=TYFSADIK&theme=tokyonight&hide_border=true" alt="streak" />
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=3" alt="divider" />
 
----
+<h2>⚡ Activity</h2>
 
-```console
-taki@tyfsadik:~$ echo "built my own AI just to avoid a subscription. no regrets." && exit
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TYFSADIK&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TYFSADIK/TYFSADIK/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TYFSADIK/TYFSADIK/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/TYFSADIK/TYFSADIK/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-[`tyfsadik.org`](https://tyfsadik.org) &nbsp;·&nbsp; [`linkedin`](https://www.linkedin.com/in/md-taki-yasir-faraji-sadik-63a026278) &nbsp;·&nbsp; [`github`](https://github.com/TYFSADIK)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=120&section=footer&text=built%20my%20own%20AI%20just%20to%20avoid%20a%20subscription&fontSize=15&fontColor=c0caf5&fontAlignY=75" alt="footer" />
 
 </div>
