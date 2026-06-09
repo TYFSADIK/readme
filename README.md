@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Based_in-Toronto,_CA-7aa2f7?style=flat&labelColor=1a1b26" alt="location" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TYFSADIK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Experience" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=TYFSADIK&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,MultiLanguage,Experience" alt="trophies" />
 
 <h3><a href="https://tyfsadik.org" target="_blank">www.tyfsadik.org</a></h3>
 
@@ -105,13 +105,32 @@ Linux (Ubuntu, Debian, Kali), Windows Server
 
 <h2>GitHub Statistics</h2>
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TYFSADIK&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="github stats" />
+
+</td>
+<td valign="top" width="50%">
+
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TYFSADIK&theme=tokyonight" alt="languages" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TYFSADIK&theme=tokyonight" alt="profile details" />
 
-<br/><br/>
+</td>
+<td valign="top" width="50%">
 
 <img src="https://streak-stats.demolab.com?user=TYFSADIK&theme=tokyonight&hide_border=true" alt="streak" />
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=3" alt="divider" />
 
@@ -120,9 +139,9 @@ Linux (Ubuntu, Debian, Kali), Windows Server
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TYFSADIK&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="contribution activity graph" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TYFSADIK/TYFSADIK/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TYFSADIK/TYFSADIK/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/TYFSADIK/TYFSADIK/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=120&section=footer&text=Securing%20infrastructure%20from%20the%20ground%20up&fontSize=15&fontColor=c0caf5&fontAlignY=75" alt="footer wave" />
