@@ -17,7 +17,7 @@
 
 <h3><a href="https://tyfsadik.org" target="_blank">www.tyfsadik.org</a></h3>
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contact@tyfsadik.org)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:taki@tyfsadik.org)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-taki-yasir-faraji-sadik-63a026278)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/TYFSADIK)
 
