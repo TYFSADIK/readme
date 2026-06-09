@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Based_in-Toronto,_CA-7aa2f7?style=flat&labelColor=1a1b26" alt="location" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TYFSADIK&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,MultiLanguage,Experience" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=TYFSADIK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,MultiLanguage,Experience" alt="trophies" />
 
 <h3><a href="https://tyfsadik.org" target="_blank">www.tyfsadik.org</a></h3>
 
